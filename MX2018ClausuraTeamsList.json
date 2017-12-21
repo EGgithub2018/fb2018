@@ -1,0 +1,94 @@
+{
+  "Teams": [
+    {
+      "name": "America",
+      "nick": "Aguilas",
+      "stadium": "Azteca"
+    },
+    {
+      "name": "Atlas",
+      "nick": "Zorros",
+      "stadium": "Jalisco"
+    },
+    {
+      "name": "BUAP",
+      "nick": "Lobos",
+      "stadium": "Universitario BUAP"
+    },
+    {
+      "name": "Cruz Azul",
+      "nick": "Cementeros",
+      "stadium": "Azul"
+    },
+    {
+      "name": "Guadalajara",
+      "nick": "Chivas",
+      "stadium": "Chivas"
+    },
+    {
+      "name": "Leon",
+      "nick": "Panzas Verdes",
+      "stadium": "Nou Camp"
+    },
+    {
+      "name": "Monterrey",
+      "nick": "Rayados",
+      "stadium": "Bancomer"
+    },
+    {
+      "name": "Morelia",
+      "nick": "Monarcas",
+      "stadium": "Morelos"
+    },
+    {
+      "name": "Necaxa",
+      "nick": "Rayos",
+      "stadium": "Victoria"
+    },
+    {
+      "name": "Pachuca",
+      "nick": "Tuzos",
+      "stadium": "Hidalgo"
+    },
+    {
+      "name": "Puebla",
+      "nick": "Camoteros",
+      "stadium": "Cuauhtemoc"
+    },
+    {
+      "name": "Queretaro",
+      "nick": "Gallos Blancos",
+      "stadium": "Corregidora"
+    },
+    {
+      "name": "Santos Laguna",
+      "nick": "Guerreros",
+      "stadium": "Corona"
+    },
+    {
+      "name": "Tijuana",
+      "nick": "Xolos",
+      "stadium": "Caliente"
+    },
+    {
+      "name": "Toluca",
+      "nick": "Diablos",
+      "stadium": "Nemesio Diez"
+    },
+    {
+      "name": "UANL",
+      "nick": "Tigres",
+      "stadium": "Universitario"
+    },
+    {
+      "name": "UNAM",
+      "nick": "Pumas",
+      "stadium": "Olimpico CU"
+    },
+    {
+      "name": "Veracruz",
+      "nick": "Tiburones",
+      "stadium": "Luis Pirata Fuentes"
+    }
+  ]
+}
